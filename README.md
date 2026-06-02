@@ -4,7 +4,7 @@
 Aspiring software engineer passionate about technology, innovation, and building real-world solutions.
 
 ## Skills
-- Basica Python Programming
+- Basic Python Programming
 - Software testing & Quality Assurance
 - Gitlab
 - Problem Solving
